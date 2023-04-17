@@ -12,7 +12,7 @@ git clone https://github.com/FedyaevaAS/images_bot
 cd images_bot
 ``` 
 
-Cоздать и активировать виртуальное окружение:
+- Cоздать и активировать виртуальное окружение:
 
 ```
 python3 -m venv venv
@@ -34,7 +34,7 @@ alembic upgrade head
 ```
 
 
-Создать в корневой директории файл .env :
+- Создать в корневой директории файл .env :
 
 ```
 BOT_TOKEN=<токен бота>
